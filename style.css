@@ -1,0 +1,101 @@
+H1{
+    background-color: aqua;
+    text-align: center;
+    font-weight: bolder;
+}
+
+table{
+    width: 1350px;
+    height: 350px;
+    border: 0;
+}
+
+.violet{
+    background-color: rgb(24, 154, 111);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    box-shadow:inset 1px 1px 1px 1px black;
+}
+
+.orange{
+    background-color: rgb(203, 132, 0);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    box-shadow:inset 1px 1px 1px 1px black;
+}
+
+.lightyellow{
+    background-color: rgb(178, 178, 78);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    box-shadow:inset 1px 1px 1px 1px black;
+}
+
+.lightorange{
+   background-color: rgb(222, 187, 59);
+   text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    box-shadow:inset 1px 1px 1px 1px black;
+}
+
+.lightgreen{
+    background-color: rgb(79, 155, 79);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    box-shadow:inset 1px 1px 1px 1px black;
+}
+
+.pink{
+    background-color: rgb(204, 136, 147);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    box-shadow:inset 1px 1px 1px 1px black;
+}
+
+.green{
+    background-color: rgb(31, 125, 31);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    box-shadow:inset 1px 1px 1px 1px black;
+}
+
+.white{
+    background-color: beige;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    box-shadow:inset 1px 1px 1px 1px black;
+    color: black;
+}
+
+.lightblue{
+    background-color: rgb(63, 157, 189);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 6px;
+    box-shadow:inset 1px 1px 1px 1px black;
+    color: black;
+}
+
+p{
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 35px;
+    margin: 60px;
+}
